@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**WillyLynn/WillyLynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on school projects and personal ones blah blah blah.   
 - 🌱 I’m currently learning software development.
